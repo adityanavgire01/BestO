@@ -12,7 +12,7 @@ app.use(express.json()); // Enable JSON parsing
 app.use(cors()); // Enable CORS
 
 // Import routes
-const authRoutes = require("./routes/auth");
+const authRoutes = require("./routes/Auth");
 
 // Use routes
 app.use("/api/auth", authRoutes);
