@@ -1,2 +1,2 @@
 # BestO
-IMDd for Internet
+IMDb for the Internet
